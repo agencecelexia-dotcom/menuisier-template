@@ -1,0 +1,16 @@
+ID,Section,Numéro,Nom_Fichier,Dimensions,Ratio,Chemin_Cible,Filename_Final,Type,Statut
+1,Services,1,cuisine-moderne,1800x1200,3:2,public/images/services/,cuisine-moderne.jpg,Professionnel,À générer
+2,Services,2,escalier-bois,1800x1200,3:2,public/images/services/,escalier-bois.jpg,Professionnel,À générer
+3,Services,3,dressing-lumineux,1800x1200,3:2,public/images/services/,dressing-lumineux.jpg,Professionnel,À générer
+4,Portfolio - Cuisine Dinan,4,cuisine-dinan-avant,1200x900,4:3,public/images/portfolio/,cuisine-dinan-avant.jpg,Avant,À générer
+5,Portfolio - Cuisine Dinan,5,cuisine-dinan-apres,1200x900,4:3,public/images/portfolio/,cuisine-dinan-apres.jpg,Après,À générer
+6,Portfolio - Escalier Saint-Brieuc,6,escalier-avant,1200x900,4:3,public/images/portfolio/,escalier-avant.jpg,Avant,À générer
+7,Portfolio - Escalier Saint-Brieuc,7,escalier-apres,1200x900,4:3,public/images/portfolio/,escalier-apres.jpg,Après,À générer
+8,Portfolio - Dressing Ploërmel,8,dressing-avant,1200x900,4:3,public/images/portfolio/,dressing-avant.jpg,Avant,À générer
+9,Portfolio - Dressing Ploërmel,9,dressing-apres,1200x900,4:3,public/images/portfolio/,dressing-apres.jpg,Après,À générer
+10,Portfolio - Bibliothèque Vannes,10,bibliotheque-avant,1200x900,4:3,public/images/portfolio/,bibliotheque-avant.jpg,Avant,À générer
+11,Portfolio - Bibliothèque Vannes,11,bibliotheque-apres,1200x900,4:3,public/images/portfolio/,bibliotheque-apres.jpg,Après,À générer
+12,Portfolio - Salle de Bain Lannion,12,sdb-avant,1200x900,4:3,public/images/portfolio/,sdb-avant.jpg,Avant,À générer
+13,Portfolio - Salle de Bain Lannion,13,sdb-apres,1200x900,4:3,public/images/portfolio/,sdb-apres.jpg,Après,À générer
+14,Portfolio - Bureau Guingamp,14,bureau-avant,1200x900,4:3,public/images/portfolio/,bureau-avant.jpg,Avant,À générer
+15,Portfolio - Bureau Guingamp,15,bureau-apres,1200x900,4:3,public/images/portfolio/,bureau-apres.jpg,Après,À générer
